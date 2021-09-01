@@ -1,0 +1,58 @@
+<resources>
+    !-- *************** -->
+    <!-- Splash Screens -->
+    <!-- *************** -->
+    <string name="splash_title_ny_times">The Articles</string>
+
+
+    !-- *************** -->
+    <!-- Pricing Screens -->
+    <!-- *************** -->
+    <string name="pricing_label">Pricing</string>
+
+    !-- *************** -->
+    <!-- Placing Screens -->
+    <!-- *************** -->
+    <string name="places_label">Places</string>
+
+    !-- *************** -->
+    <!-- Articles Screens -->
+    <!-- *************** -->
+    <string name="articles_label">Articles</string>
+    <string name="articles_url">Url</string>
+    <string name="articles_open_link">Open Link</string>
+    <string name="articles_source">Source</string>
+    <string name="articles_published_on">Published On</string>
+    <string name="articles_section">Section</string>
+    <string name="articles_subsection">Sub Section</string>
+    <string name="articles_author">Author</string>
+    <string name="articles_type">Type</string>
+    <string name="articles_title">Title</string>
+    <string name="articles_abstract">Abstract</string>
+
+    !-- *************** -->
+    <!-- Navigation Header -->
+    <!-- *************** -->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_articles">Articles</string>
+    <string name="nav_header_pricing">Pricing</string>
+    <string name="nav_header_places">Places</string>
+
+
+    !-- *************** -->
+    <!-- Alert Title & Messages -->
+    <!-- *************** -->
+    <string name="title_no_internet_connection">No internet connection</string>
+    <string name="message_no_internet_connection">Please check your internet connection and try again.</string>
+    <string name="title_error_in_request">Error in making request</string>
+    <string name="message_error_in_request">There is an issue to make the request</string>
+    <string name="alert_ok_label">OK</string>
+    <string name="not_applicable">N/A</string>
+    <string name="coming_soon">Coming soon…</string>
+    <string name="intent_choose_phone">Choose Phone App</string>
+    <string name="intent_choose_email">Choose Email Account</string>
+    <string name="intent_choose_web_link">Choose Browser to open</string>
+</resources>

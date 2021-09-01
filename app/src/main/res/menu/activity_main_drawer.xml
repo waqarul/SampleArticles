@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_articles"
+            android:checkable="true"
+            android:icon="@drawable/ic_articles"
+            android:title="@string/nav_header_articles" />
+        <item
+            android:id="@+id/nav_pricing"
+            android:checkable="true"
+            android:icon="@drawable/ic_price"
+            android:title="@string/nav_header_pricing" />
+        <item
+            android:id="@+id/nav_places"
+            android:checkable="true"
+            android:icon="@drawable/ic_location"
+            android:title="@string/nav_header_places" />
+    </group>
+</menu>
