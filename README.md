@@ -54,6 +54,7 @@ You can download the source-code in following ways:
 
 
 After downloading the source code:
+- Checkout master branch
 - Open Android Studio
 - Goto to _File -> Open_ in menu bar.
 - Navigate to <PATH_TO_PROJECT>/SampleArticles
